@@ -1,6 +1,6 @@
 # Facial Login System
 -------------------------------------------------------------------------------------------------
-##### The following shows the steps to run the system in terminal
+##### The steps to test run the system in terminal
 
 #### 1 Collect Face Data 
 >> python face_capture.py
@@ -11,7 +11,7 @@
 #### 3 Import Database
 >> python create_database.py
 
-#### 4 Build the System 
+#### 4 Build the System
 >> python faces.py
 
 #### 5 Test the System
