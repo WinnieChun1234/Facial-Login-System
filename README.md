@@ -1,7 +1,11 @@
 # Facial Login System
 -------------------------------------------------------------------------------------------------
-##### The steps to test run the system in terminal
+This system makes use of a trained model for the face recognition and a database for login authentication.
 
+
+-------------------------------------------------------------------------------------------------
+##### The steps to test run the system in terminal
+-------------------------------------------------------------------------------------------------
 #### 1 Collect Face Data 
 >> python face_capture.py
       
