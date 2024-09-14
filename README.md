@@ -26,13 +26,6 @@ This project implements an end-to-end facial recognition login system using Pyth
 2. Log in using facial recognition by presenting your face to the camera.
 3. The system will verify your identity and grant access if successful.
 
-## Additional Information
-
-This project is part of a school assignment to explore the applications of facial recognition technology. We plan to improve the system's accuracy and add additional features in the future. For more information on facial recognition, please refer to the following resources:
-
-* https://opencv.org/
-* https://www.pyimagesearch.com/
-* https://www.dlib.net/
 
 
 
